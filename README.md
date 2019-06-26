@@ -12,7 +12,7 @@ Here are few screenshots to help get a better idea of how the app actually looks
 
 ![Screenshot 2019-06-23 at 10 05 10 PM](https://user-images.githubusercontent.com/32016777/59980025-afd19500-960d-11e9-87a1-f27e24fbc073.png)
 
-![Screenshot 2019-06-17 at 11 53 30 PM](https://user-images.githubusercontent.com/32016777/59627646-588a7b00-915c-11e9-912d-2077ad9d236b.png)
+![Screenshot 2019-06-25 at 12 16 36 AM](https://user-images.githubusercontent.com/32016777/60202689-c32c6c80-9868-11e9-8d2d-97044ced94cf.png)
 
 ## License & Copyright
 
